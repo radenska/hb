@@ -1,0 +1,27 @@
+* {
+  font-family: arial;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 7px;
+  text-align: center;
+
+}
+
+#hb {
+  overflow: auto;
+  font-size: 64px;
+  background-color: lightblue;
+  color: slategray;
+  width: 800px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 7px;
+  text-shadow: 2px 2px 2px black;
+}
+
+p {
+  font-size: 20px;
+  color: darkblue;
+  background-color: white;
+  width: 800px;
+}
