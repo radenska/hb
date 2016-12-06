@@ -12,4 +12,4 @@ var i3 = Math.floor(Math.random() * 10);
 var i4 = Math.floor(Math.random() * 10);
 var i5 = Math.floor(Math.random() * 10);
 
-document.write(desc[i] + ' Kirsten, I ' + verb[i2] + ' that you ' + verb2[i3] + ' a ' + adj[i4] + time[i5] + '!!!');
+document.write(desc[i] + ' Kirsten, I ' + verb[i2] + ' that you ' + verb2[i3] + ' a(n) ' + adj[i4] + time[i5] + '!!!');
